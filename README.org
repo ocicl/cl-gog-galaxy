@@ -4,6 +4,6 @@ Bindings library for the GOG Galaxy SDK
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Shinmera/cl-gog-galaxy.git |
-| commit  | 79e5380                                           |
+| commit  | 0bb3997                                           |
 | systems | cl-gog-galaxy                                     |
 |---------+---------------------------------------------------|
