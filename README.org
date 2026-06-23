@@ -7,4 +7,4 @@ Bindings library for the GOG Galaxy SDK
 | commit  | 26e058f                                           |
 | systems | cl-gog-galaxy                                     |
 |---------+---------------------------------------------------|
- 
+  
